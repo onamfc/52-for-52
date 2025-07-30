@@ -55,7 +55,7 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 
 | Week | Project | Status | Tech Stack | Links |
 |------|---------|--------|------------|-------|
-| 01 |  *Devlogger for Laravel* | Released | Laravel | - |
+| 01 |  *Devlogger for Laravel* | Released | Laravel | [github](https://github.com/onamfc/laravel-devlogger), [packagist](https://packagist.org/packages/onamfc/laravel-devlogger-dashboard) |
 | 02 | 🚧 *Planned* | 🔄 In Progress | TBD | - |
 | 03 | 📋 *Planned* | ⏳ Planned | TBD | - |
 | 04 | 📋 *Planned* | ⏳ Planned | TBD | - |
