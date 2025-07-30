@@ -9,7 +9,7 @@
 [![Progress](https://img.shields.io/badge/Progress-Week%204%2F52-blue)](https://github.com/onamfc/52-for-52)
 
 ### Follow my Journey 
-[![Github Pages](https://img.shields.io/website?url=https://onamfc.github.io/52-for-52&style=for-the-badge)](https://onamfc.github.io/52-for-52) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-estrella-dev) | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sitetransition)
+[![Github Pages](https://img.shields.io/website?url=https://onamfc.github.io/52-for-52&style=for-the-badge)](https://onamfc.github.io/52-for-52)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-estrella-dev)  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sitetransition)
 
 </div>
 
@@ -148,21 +148,6 @@ This is an open source journey, and contributions are welcome!
 
 ---
 
-## Timeline & Milestones
-
-### Major Milestones
-- **Week 13** (Q1) - First quarter review and showcase
-- **Week 26** (Mid-year) - Halfway celebration and community event
-- **Week 39** (Q3) - Three-quarter mark retrospective
-- **Week 52** (Year-end) - Grand finale and impact assessment
-
-### Success Metrics
-- **Completion Rate:** Target 90%+ (47+ projects)
-- **Community Growth:** 1000+ GitHub stars
-- **Engagement:** 100+ contributors across all projects
-- **Impact:** 10,000+ downloads/uses of created tools
-
----
 
 ## License
 
