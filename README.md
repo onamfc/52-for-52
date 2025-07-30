@@ -108,13 +108,6 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 | 51 | 📋 *Planned* | ⏳ Planned | TBD | - |
 | 52 | 📋 *Planned* | ⏳ Planned | TBD | - |
 
-### Progress Stats
-- **Completed Projects:** 0/52
-- **In Progress:** 1/52
-- **Planned:** 51/52
-- **Success Rate:** 0%
-- **Days Active:** 1
-- **GitHub Stars Earned:** 0
 
 ---
 
