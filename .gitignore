@@ -1,3 +1,4 @@
 node_modules/
 .env
 GITHUB_PAGES_SETUP.md
+.idea
