@@ -20,7 +20,7 @@
 
 ## The Challenge
 
-Welcome to **52-for-52** – an ambitious journey to create 52 meaningful open source projects over the course of 52 weeks. Each week brings a new challenge, a new learning opportunity, and a new contribution to the developer community.
+Welcome to **52-for-52 open source challenge** – an ambitious journey to create 52 meaningful open source projects over the course of 52 weeks. Each week brings a new challenge, a new learning opportunity, and a new contribution to the developer community.
 
 ### Mission Statement
 > "To build momentum through consistent creation, share knowledge through open source, and contribute valuable tools that make developers' lives easier."
@@ -49,14 +49,14 @@ Welcome to **52-for-52** – an ambitious journey to create 52 meaningful open s
 
 <div align="center">
 
-### 2024 Project Calendar
+### 2025 Project Calendar
 
 </div>
 
 | Week | Project | Status | Tech Stack | Links |
 |------|---------|--------|------------|-------|
-| 01 | 🚧 *Coming Soon* | 🔄 In Progress | TBD | - |
-| 02 | 📋 *Planned* | ⏳ Planned | TBD | - |
+| 01 |  *Devlogger for Laravel* | Released | Laravel | - |
+| 02 | 🚧 *Planned* | 🔄 In Progress | TBD | - |
 | 03 | 📋 *Planned* | ⏳ Planned | TBD | - |
 | 04 | 📋 *Planned* | ⏳ Planned | TBD | - |
 | 05 | 📋 *Planned* | ⏳ Planned | TBD | - |
