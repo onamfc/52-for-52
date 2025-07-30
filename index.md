@@ -1,17 +1,38 @@
-<div align="center">
+<p align="center">
+  <a href="https://onamfc.github.io/52-for-52">
+    <img src="https://dpt3aqeyfpth5.cloudfront.net/img/52-for-52-logo.png" alt="52-for-52 Banner" style="max-width: 300px;">
+  </a>
+</p>
 
-[![52-for-52 Banner](https://dpt3aqeyfpth5.cloudfront.net/img/52-for-52-logo.png)](https://onamfc.github.io/52-for-52)
+<p align="center">
+  <a href="https://github.com/onamfc/52-for-52/stargazers">
+    <img src="https://img.shields.io/github/stars/onamfc/52-for-52?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/onamfc/52-for-52/network/members">
+    <img src="https://img.shields.io/github/forks/onamfc/52-for-52?style=social" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/onamfc/52-for-52/issues">
+    <img src="https://img.shields.io/github/issues/onamfc/52-for-52" alt="GitHub issues">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+  <a href="https://github.com/onamfc/52-for-52">
+    <img src="https://img.shields.io/badge/Progress-Week%204%2F52-blue" alt="Progress">
+  </a>
+</p>
 
-[![GitHub stars](https://img.shields.io/github/stars/onamfc/52-for-52?style=social)](https://github.com/onamfc/52-for-52/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/onamfc/52-for-52?style=social)](https://github.com/onamfc/52-for-52/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/onamfc/52-for-52)](https://github.com/onamfc/52-for-52/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Progress](https://img.shields.io/badge/Progress-Week%204%2F52-blue)](https://github.com/onamfc/52-for-52)
-
-### Follow my Journey
-[![Github Pages](https://img.shields.io/website?url=https://onamfc.github.io/52-for-52&style=for-the-badge)](https://onamfc.github.io/52-for-52)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-estrella-dev)  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sitetransition)
-
-</div>
+<p align="center">
+  <a href="https://onamfc.github.io/52-for-52">
+    <img src="https://img.shields.io/website?url=https://onamfc.github.io/52-for-52&style=for-the-badge" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/brandon-estrella-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/sitetransition">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter">
+  </a>
+</p>
 
 
 ---
@@ -166,19 +187,29 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### Ready to Join the Journey?
+<h3>Ready to Join the Journey?</h3>
 
-**Star this repository to follow along!**
+<strong>Star this repository to follow along and support the challenge!</strong><br>
 
-[![Star on GitHub](https://img.shields.io/github/stars/onamfc/52-for-52?style=social)](https://github.com/onamfc/52-for-52/stargazers)
+<a href="https://github.com/onamfc/52-for-52/stargazers">
+  <img src="https://img.shields.io/github/stars/onamfc/52-for-52?style=social" alt="Star on GitHub">
+</a>
 
-**Share the challenge:**
-[Twitter](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%2052-week%20open%20source%20challenge!&url=https://github.com/onamfc/52-for-52) | [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/onamfc/52-for-52) | [Reddit](https://reddit.com/submit?url=https://github.com/onamfc/52-for-52&title=52%20Open%20Source%20Projects%20in%2052%20Weeks)
+<hr style="width: 50%;">
 
----
+<h4>Share the Challenge</h4>
 
-*"The best time to plant a tree was 20 years ago. The second best time is now."*
+<p>
+  <a href="https://twitter.com/intent/tweet?text=Check%20out%20this%2052-week%20open%20source%20challenge!&url=https://github.com/onamfc/52-for-52">Twitter</a> |
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/onamfc/52-for-52">LinkedIn</a> |
+  <a href="https://reddit.com/submit?url=https://github.com/onamfc/52-for-52&title=52%20Open%20Source%20Projects%20in%2052%20Weeks">Reddit</a>
+</p>
 
-**Let's build something amazing together!**
+<hr style="width: 50%;">
+
+<blockquote>
+  <em>"The best time to plant a tree was 20 years ago. The second best time is now."</em>
+</blockquote>
 
 </div>
+
