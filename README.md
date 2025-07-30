@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![52-for-52 Banner](https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=1200&h=300&fit=crop)
+![52-for-52 Banner](https://dpt3aqeyfpth5.cloudfront.net/img/52-for-52-logo.png)
 
 **Building 52 open source projects in 52 weeks**
 
