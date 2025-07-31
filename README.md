@@ -52,51 +52,51 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 | 05 | 🗓️ *Webhook Tester CLI*                  | ⏳ Scheduled     | TBD              | - |
 | 06 | 🗓️ *Eloquent to Json Schema Generator*   | ⏳ Scheduled       | TBD              | - |
 | 07 | 🗓️ *Cloudflare Cache Purger for Laravel* | ⏳ Scheduled       | TBD              | - |
-| 08 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 09 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 10 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 11 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 12 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 13 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 14 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 15 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 16 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 17 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 18 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 19 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 20 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 21 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 22 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 23 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 24 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 25 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 26 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 27 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 28 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 29 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 30 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 31 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 32 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 33 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 34 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 35 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 36 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 37 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 38 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 39 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 40 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 41 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 42 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 43 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 44 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 45 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 46 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 47 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 48 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 49 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 50 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 51 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
-| 52 | 📋 *TBD*                             | ⏳ N/A           | TBD              | - |
+| 08 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 09 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 10 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 11 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 12 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 13 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 14 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 15 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 16 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 17 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 18 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 19 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 20 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 21 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 22 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 23 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 24 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 25 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 26 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 27 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 28 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 29 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 30 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 31 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 32 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 33 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 34 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 35 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 36 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 37 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 38 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 39 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 40 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 41 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 42 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 43 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 44 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 45 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 46 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 47 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 48 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 49 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 50 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 51 | 📋 *TBD*                             | N/A           | TBD              | - |
+| 52 | 📋 *TBD*                             | N/A           | TBD              | - |
 
 
 ---
