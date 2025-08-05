@@ -46,8 +46,8 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 | Week | Project                                   | Status          | Tag              | Links |
 |------|-------------------------------------------|-----------------|------------------|-------|
 | 01 | *Devlogger for Laravel*                   | Released        | Laravel          | [github](https://github.com/onamfc/laravel-devlogger), [packagist](https://packagist.org/packages/onamfc/laravel-devlogger) |
-| 02 | *Database Archiver for Laravel*           | Pending Release | Laravel          | - |
-| 03 | *Gravity Forms to Clevertap Connector*    | Pending Release | Wordpress Plugin | - |
+| 02 | *Gravity Forms to Clevertap Connector*    | Released | Wordpress Plugin  | [github](https://github.com/onamfc/gravity-forms-clevertap-integration) |
+| 03 | *Database Archiver for Laravel*           | Pending Release | Laravel          | - |
 | 04 | 🚧 *Route Visualizer for Laravel*         | 🔄 In Progress  | Laravel          | - |
 | 05 | 🗓️ *Webhook Tester CLI*                  | ⏳ Scheduled     | TBD              | - |
 | 06 | 🗓️ *Eloquent to Json Schema Generator*   | ⏳ Scheduled     | TBD              | - |
