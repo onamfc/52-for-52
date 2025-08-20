@@ -48,12 +48,12 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 | 01 | *Devlogger for Laravel*                   | Released        | Laravel          | [github](https://github.com/onamfc/laravel-devlogger), [packagist](https://packagist.org/packages/onamfc/laravel-devlogger) |
 | 02 | *Gravity Forms to Clevertap Connector*    | Released | Wordpress Plugin  | [github](https://github.com/onamfc/gravity-forms-clevertap-integration) |
 | 03 | *Database Archiver for Laravel*           | Released | Laravel          | [github](https://github.com/onamfc/laravel-database-archiver), [packagist](https://packagist.org/packages/onamfc/laravel-database-archiver) |
-| 04 | 🚧 *Route Visualizer for Laravel*         | 🔄 In Progress  | Laravel          | - |
-| 05 | 🗓️ *Webhook Tester CLI*                  | ⏳ Scheduled     | TBD              | - |
+| 04 | *Route Visualizer for Laravel*         | Released  | Laravel          | [github](https://github.com/onamfc/laravel-route-visualizer), [packagist](https://packagist.org/packages/onamfc/laravel-route-visualizer) |
+| 05 | 🚧 *Webhook Tester CLI*                  | ⏳ Scheduled     | TBD              | - |
 | 06 | 🗓️ *Eloquent to Json Schema Generator*   | ⏳ Scheduled     | TBD              | - |
 | 07 | 🗓️ *Cloudflare Cache Purger for Laravel* | ⏳ Scheduled     | TBD              | - |
-| 08 | 📋 *Github Non "Follow Backs"*            | ⏳ Scheduled     | TBD              | - |
-| 09 | 📋 *TBD*                                  | N/A             | TBD              | - |
+| 08 | 📋 *Github Non "Follow Backs"*            | ⏳ Scheduled     | Python              | - |
+| 09 | 📋 *Deep Link Managment*                  | ⏳ Scheduled     | Node, Docker, TS              | - |
 | 10 | 📋 *TBD*                                  | N/A             | TBD              | - |
 | 11 | 📋 *TBD*                                  | N/A             | TBD              | - |
 | 12 | 📋 *TBD*                                  | N/A             | TBD              | - |
