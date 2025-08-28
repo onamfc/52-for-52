@@ -1,0 +1,70 @@
+name: Update Progress Badge
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      week_number:
+        description: 'Week number to update to'
+        required: true
+        type: number
+
+permissions:
+  contents: write
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract week number
+        id: extract_week
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            WEEK_NUMBER="${{ github.event.inputs.week_number }}"
+          else
+            TAG_NAME="${{ github.event.release.tag_name }}"
+            echo "Tag name: $TAG_NAME"
+          
+            # Extract week number from tag (supports formats like "week-5", "v1.5.0", "1.5.0")
+            if [[ $TAG_NAME =~ week-([0-9]+) ]]; then
+              WEEK_NUMBER=${BASH_REMATCH[1]}
+            elif [[ $TAG_NAME =~ v?[0-9]+\.([0-9]+) ]]; then
+              WEEK_NUMBER=${BASH_REMATCH[1]}
+            else
+              echo "Could not extract week number from tag: $TAG_NAME"
+              exit 1
+            fi
+          fi
+          
+          echo "Week number: $WEEK_NUMBER"
+          echo "week_number=$WEEK_NUMBER" >> $GITHUB_OUTPUT
+
+      - name: Update README.md
+        run: |
+          WEEK_NUMBER="${{ steps.extract_week.outputs.week_number }}"
+          sed -i "s/Progress-Week%20[0-9]\+%2F52/Progress-Week%20${WEEK_NUMBER}%2F52/g" README.md
+          sed -i "s/Progress-Week [0-9]\+\/52/Progress-Week ${WEEK_NUMBER}\/52/g" README.md
+
+      - name: Update index.md
+        run: |
+          WEEK_NUMBER="${{ steps.extract_week.outputs.week_number }}"
+          sed -i "s/Progress-Week%20[0-9]\+%2F52/Progress-Week%20${WEEK_NUMBER}%2F52/g" index.md
+          sed -i "s/Progress-Week [0-9]\+\/52/Progress-Week ${WEEK_NUMBER}\/52/g" index.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md index.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update progress badge to week ${{ steps.extract_week.outputs.week_number }}"
+            git push
+          fi
