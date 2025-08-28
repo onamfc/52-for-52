@@ -21,6 +21,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+          ref: ${{ github.event.repository.default_branch }}
 
       - name: Extract week number
         id: extract_week
