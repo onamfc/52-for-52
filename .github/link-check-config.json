@@ -1,0 +1,51 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://img\\.shields\\.io/"
+    },
+    {
+      "pattern": "^https://github\\.com/.+/stargazers$"
+    },
+    {
+      "pattern": "^https://github\\.com/.+/network/members$"
+    },
+    {
+      "pattern": "^https://github\\.com/.+/issues$"
+    },
+    {
+      "pattern": "^https://www\\.linkedin\\.com/"
+    },
+    {
+      "pattern": "^https://reddit\\.com/"
+    },
+    {
+      "pattern": "^https://twitter\\.com/"
+    },
+    {
+      "pattern": "^https://x\\.com/"
+    }
+  ],
+  "httpHeaders": [
+    {
+      "urls": ["https://github.com", "https://api.github.com"],
+      "headers": {
+        "Accept": "application/vnd.github.v3+json",
+        "User-Agent": "link-checker"
+      }
+    }
+  ],
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackHttpStatus": [
+    400,
+    401,
+    403,
+    404,
+    408,
+    429,
+    500,
+    502,
+    503,
+    504
+  ]
+}
