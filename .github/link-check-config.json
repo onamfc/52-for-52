@@ -11,6 +11,18 @@
     },
     {
       "pattern": "^https://github\\.com/.+/issues$"
+    },
+    {
+      "pattern": "^https://www\\.linkedin\\.com/"
+    },
+    {
+      "pattern": "^https://reddit\\.com/"
+    },
+    {
+      "pattern": "^https://twitter\\.com/"
+    },
+    {
+      "pattern": "^https://x\\.com/"
     }
   ],
   "httpHeaders": [
