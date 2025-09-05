@@ -64,60 +64,60 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 
 ## Project Tracker
 
-| Week | Project                                  | Status          | Tag              | Links |
-|------|------------------------------------------|-----------------|------------------|-------|
-| 01 | *Devlogger for Laravel*                  | Released        | Laravel          | [github](https://github.com/onamfc/laravel-devlogger), [packagist](https://packagist.org/packages/onamfc/laravel-devlogger-dashboard) |
-| 02 | *Database Archiver for Laravel*          | Pending Release | Laravel          | - |
-| 03 | *Gravity Forms to Clevertap Connector*   | Pending Release | Wordpress Plugin | - |
-| 04 | 🚧 *Route Visualizer for Laravel*        | 🔄 In Progress  | Laravel          | - |
-| 05 | 📋 *Webhook Tester CLI*                  | ⏳ Planned       | TBD              | - |
-| 06 | 📋 *Eloquent to Json Schema Generator*   | ⏳ Planned       | TBD              | - |
-| 07 | 📋 *Cloudflare Cache Purger for Laravel* | ⏳ Planned       | TBD              | - |
-| 08 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 09 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 10 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 11 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 12 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 13 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 14 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 15 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 16 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 17 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 18 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 19 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 20 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 21 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 22 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 23 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 24 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 25 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 26 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 27 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 28 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 29 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 30 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 31 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 32 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 33 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 34 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 35 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 36 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 37 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 38 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 39 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 40 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 41 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 42 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 43 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 44 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 45 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 46 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 47 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 48 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 49 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 50 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 51 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
-| 52 | 📋 *Planned*                             | ⏳ Planned       | TBD              | - |
+| Week | Project                                 | Status | Tag                      | Links                                                                                                                                       |
+|------|-----------------------------------------|--------|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 01 | *Devlogger for Laravel*                 | Released | Laravel                  | [github](https://github.com/onamfc/laravel-devlogger), [packagist](https://packagist.org/packages/onamfc/laravel-devlogger)                 |
+| 02 | *Gravity Forms to Clevertap Connector*  | Released | Wordpress Plugin         | [github](https://github.com/onamfc/gravity-forms-clevertap-integration)                                                                     |
+| 03 | *Database Archiver for Laravel*         | Released | Laravel                  | [github](https://github.com/onamfc/laravel-database-archiver), [packagist](https://packagist.org/packages/onamfc/laravel-database-archiver) |
+| 04 | *Route Visualizer for Laravel*          | Released | Laravel                  | [github](https://github.com/onamfc/laravel-route-visualizer), [packagist](https://packagist.org/packages/onamfc/laravel-route-visualizer)   |
+| 05 | *Eloquent to Json Schema Generator*     | Released | Laravel                  | [github](https://github.com/onamfc/eloquent-to-json-generator), [packagist](https://packagist.org/packages/onamfc/eloquent-json-schema)     |
+| 06 | *MCP Starter Template - TypeScript*   | Released | TypeScript, MCP, AI      | [github](https://github.com/onamfc/mcp-starter-template-ts)                                                                                 |
+| 07 | 🚧️ *Cloudflare Cache Purger for Laravel* | ⏳ Scheduled | TBD                      | -                                                                                                                                           |
+| 08 | 🚧 *Github Non "Follow Backs"*          | ⏳ Scheduled | Python                   | -                                                                                                                                           |
+| 09 | 🚧 *Deep Link Managment*                | ⏳ Scheduled | Node, Docker, Typescript | -                                                                                                                                           |
+| 10 | 🚧 *Webhook Tester CLI*                 | ⏳ Scheduled       | TBD                      | -                                                                                                                                           |
+| 11 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 12 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 13 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 14 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 15 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 16 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 17 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 18 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 19 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 20 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 21 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 22 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 23 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 24 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 25 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 26 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 27 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 28 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 29 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 30 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 31 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 32 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 33 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 34 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 35 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 36 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 37 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 38 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 39 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 40 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 41 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 42 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 43 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 44 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 45 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 46 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 47 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 48 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 49 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 50 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 51 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
+| 52 | 📋 *TBD*                                | N/A    | TBD                      | -                                                                                                                                           |
 
 
 ---
