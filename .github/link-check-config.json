@@ -23,6 +23,9 @@
     },
     {
       "pattern": "^https://x\\.com/"
+    },
+    {
+      "pattern": "^https://www\\.npmjs\\.com/package/@onamfc(/.*)?$"
     }
   ],
   "httpHeaders": [
