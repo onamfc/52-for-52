@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   </a>
   <a href="https://github.com/onamfc/52-for-52">
-    <img src="https://img.shields.io/badge/Progress-Week%209%2F52-blue" alt="Progress">
+    <img src="https://img.shields.io/badge/Progress-Week%2010%2F52-blue" alt="Progress">
   </a>
 </p>
 
