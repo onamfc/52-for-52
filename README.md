@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/onamfc/52-for-52?style=social)](https://github.com/onamfc/52-for-52/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/onamfc/52-for-52)](https://github.com/onamfc/52-for-52/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Progress](https://img.shields.io/badge/Progress-Week%2010%2F52-blue)](https://github.com/onamfc/52-for-52)
+[![Progress](https://img.shields.io/badge/Progress-Week%2011%2F52-blue)](https://github.com/onamfc/52-for-52)
 
 ### Follow my Journey 
 [![Github Pages](https://img.shields.io/website?url=https://onamfc.github.io/52-for-52&style=for-the-badge)](https://onamfc.github.io/52-for-52)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-estrella-dev)  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sitetransition)
@@ -55,10 +55,10 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 | 08   | *Github Non "Follow Backs"*              | Released 9/19/25 | Python              | [github](https://github.com/onamfc/github-non-follow-backs)                                                                                 |
 | 09   | *API Mocker*                             | Released 9/24/25 | TypeScript          | [github](https://github.com/onamfc/api-mocker), [npm](https://www.npmjs.com/package/@onamfc/api-mocker)                                     |
 | 10   | *Developer Log*                          | Released 10/1/25 | Typescript          | [github](https://github.com/onamfc/developer-log), [npm](https://www.npmjs.com/package/@onamfc/developer-log)                               |
-| 11   | 🚧 *Cloudflare Cache Purger for Laravel* | ⏳ Scheduled      | TBD                 | -                                                                                                                                           |
+| 11   | *Github "Follow Back"*                   | Release 10/10/25 | Python              | [github](https://github.com/onamfc/github-follow-back)                                                                                      |
 | 12   | 🚧 *Deep Link Management                 | ⏳ Scheduled      | TBD                 | -                                                                                                                                           |
 | 13   | 🚧 *Webhook Tester CLI*                  | ⏳ Scheduled      | TBD                 | -                                                                                                                                           |
-| 14   | 📋 *TBD*                                 | N/A              | TBD                 | -                                                                                                                                           |
+| 14   | 🚧 *Cloudflare Cache Purger for Laravel* | ⏳ Scheduled      | TBD                 | -                                                                                                                                           |
 | 15   | 📋 *TBD*                                 | N/A              | TBD                 | -                                                                                                                                           |
 | 16   | 📋 *TBD*                                 | N/A              | TBD                 | -                                                                                                                                           |
 | 17   | 📋 *TBD*                                 | N/A              | TBD                 | -                                                                                                                                           |
