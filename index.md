@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   </a>
   <a href="https://github.com/onamfc/52-for-52">
-    <img src="https://img.shields.io/badge/Progress-Week%2012%2F52-blue" alt="Progress">
+    <img src="https://img.shields.io/badge/Progress-Week%2013%2F52-blue" alt="Progress">
   </a>
 </p>
 
@@ -78,10 +78,10 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 | 10   | *Developer Log*                          | Released 10/1/25  | Typescript          | [github](https://github.com/onamfc/developer-log), [npm](https://www.npmjs.com/package/@onamfc/developer-log)                               |
 | 11   | *Github "Follow Back"*                   | Release 10/10/25  | Python              | [github](https://github.com/onamfc/github-follow-back)                                                                                      |
 | 12   | *Javascript Package Analyzer*            | Released 10/18/25 | Javascript          | [github](https://github.com/onamfc/package-analyzer), [npm](https://www.npmjs.com/package/@onamfc/pkg-inspect)                              |
-| 13   | 🚧 *Webhook Tester CLI*                  | ⏳ Scheduled       | TBD                 | -                                                                                                                                           |
+| 13   | *NPM Vulnerability Scanner*              | Released 10/25/25 | Javascript          | [github](https://github.com/onamfc/npm-vulnerability-scanner), [npm](https://www.npmjs.com/package/@onamfc/npm-vuln-scanner)                |
 | 14   | 🚧 *Cloudflare Cache Purger for Laravel* | ⏳ Scheduled       | TBD                 | -                                                                                                                                           |
 | 15   | 🚧 *Deep Link Management                 | ⏳ Scheduled       | TBD                 | -                                                                                                                                           |
-| 16   | 📋 *TBD*                                 | N/A               | TBD                 | -                                                                                                                                           |
+| 16   | 🚧 *Webhook Tester CLI*                  | ⏳ Scheduled       | TBD                 | -                                                                                                                                           |
 | 17   | 📋 *TBD*                                 | N/A               | TBD                 | -                                                                                                                                           |
 | 18   | 📋 *TBD*                                 | N/A               | TBD                 | -                                                                                                                                           |
 | 19   | 📋 *TBD*                                 | N/A               | TBD                 | -                                                                                                                                           |
