@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   </a>
   <a href="https://github.com/onamfc/52-for-52">
-    <img src="https://img.shields.io/badge/Progress-Week%2013%2F52-blue" alt="Progress">
+    <img src="https://img.shields.io/badge/Progress-Week%2014%2F52-blue" alt="Progress">
   </a>
 </p>
 
@@ -79,10 +79,10 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 | 11   | *Github "Follow Back"*                   | Release 10/10/25  | Python              | [github](https://github.com/onamfc/github-follow-back)                                                                                      |
 | 12   | *Javascript Package Analyzer*            | Released 10/18/25 | Javascript          | [github](https://github.com/onamfc/package-analyzer), [npm](https://www.npmjs.com/package/@onamfc/pkg-inspect)                              |
 | 13   | *NPM Vulnerability Scanner*              | Released 10/25/25 | Javascript          | [github](https://github.com/onamfc/npm-vulnerability-scanner), [npm](https://www.npmjs.com/package/@onamfc/npm-vuln-scanner)                |
-| 14   | 🚧 *Cloudflare Cache Purger for Laravel* | ⏳ Scheduled       | TBD                 | -                                                                                                                                           |
+| 14   | *Vibe Coder Prompt Builder*              | Released 11/02/25 | Typescript, OpenAI  | [github](https://github.com/onamfc/vibe-coder-prompt-builder)                                                                               |
 | 15   | 🚧 *Deep Link Management                 | ⏳ Scheduled       | TBD                 | -                                                                                                                                           |
 | 16   | 🚧 *Webhook Tester CLI*                  | ⏳ Scheduled       | TBD                 | -                                                                                                                                           |
-| 17   | 📋 *TBD*                                 | N/A               | TBD                 | -                                                                                                                                           |
+| 17   | 🚧 *Cloudflare Cache Purger for Laravel* | ⏳ Scheduled       | TBD                 | -                                                                                                                                           |
 | 18   | 📋 *TBD*                                 | N/A               | TBD                 | -                                                                                                                                           |
 | 19   | 📋 *TBD*                                 | N/A               | TBD                 | -                                                                                                                                           |
 | 20   | 📋 *TBD*                                 | N/A               | TBD                 | -                                                                                                                                           |
