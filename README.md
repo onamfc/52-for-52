@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/onamfc/52-for-52?style=social)](https://github.com/onamfc/52-for-52/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/onamfc/52-for-52)](https://github.com/onamfc/52-for-52/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Progress](https://img.shields.io/badge/Progress-Week%2015%2F52-blue)](https://github.com/onamfc/52-for-52)
+[![Progress](https://img.shields.io/badge/Progress-Week%2016%2F52-blue)](https://github.com/onamfc/52-for-52)
 
 ### Follow my Journey 
 [![Github Pages](https://img.shields.io/website?url=https://onamfc.github.io/52-for-52&style=for-the-badge)](https://onamfc.github.io/52-for-52)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-estrella-dev)  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sitetransition)
@@ -54,15 +54,15 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 | 07   | *AWS Video Transcoder*                   | Released 9/12/25  | TypeScript, AWS      | [github](https://github.com/onamfc/video-transcoder), [npm](https://www.npmjs.com/package/@onamfc/video-transcoder)                         |
 | 08   | *Github Non "Follow Backs"*              | Released 9/19/25  | Python               | [github](https://github.com/onamfc/github-non-follow-backs)                                                                                 |
 | 09   | *API Mocker*                             | Released 9/24/25  | TypeScript           | [github](https://github.com/onamfc/api-mocker), [npm](https://www.npmjs.com/package/@onamfc/api-mocker)                                     |
-| 10   | *Developer Log*                          | Released 10/1/25  | Typescript           | [github](https://github.com/onamfc/developer-log), [npm](https://www.npmjs.com/package/@onamfc/developer-log)                               |
+| 10   | *Developer Log*                          | Released 10/1/25  | TypeScript           | [github](https://github.com/onamfc/developer-log), [npm](https://www.npmjs.com/package/@onamfc/developer-log)                               |
 | 11   | *Github "Follow Back"*                   | Release 10/10/25  | Python               | [github](https://github.com/onamfc/github-follow-back)                                                                                      |
 | 12   | *Javascript Package Analyzer*            | Released 10/18/25 | Javascript           | [github](https://github.com/onamfc/package-analyzer), [npm](https://www.npmjs.com/package/@onamfc/pkg-inspect)                              |
 | 13   | *NPM Vulnerability Scanner*              | Released 10/25/25 | Javascript           | [github](https://github.com/onamfc/npm-vulnerability-scanner), [npm](https://www.npmjs.com/package/@onamfc/npm-vuln-scanner)                |
-| 14   | *Vibe Coder Prompt Builder*              | Released 11/02/25 | Typescript, OpenAI   | [github](https://github.com/onamfc/vibe-coder-prompt-builder)                                                                               |
+| 14   | *Vibe Coder Prompt Builder*              | Released 11/02/25 | TypeScript, OpenAI   | [github](https://github.com/onamfc/vibe-coder-prompt-builder)                                                                               |
 | 15   | *Xantus - RAG Chat*                      | Released 11/07/25 | AI, RAG, Python, MCP | [github](https://github.com/onamfc/rag-chat)                                                                                                |
-| 16   | 🚧 *Webhook Tester CLI*                  | ⏳ Scheduled       | TBD                  | -                                                                                                                                           |
+| 16   | *LinkForty - Deeplink Core*              | Released 11/15/25 | TypeScript           | [github](https://github.com/LinkForty/core), [npm](https://www.npmjs.com/package/@linkforty/core)                                           |
 | 17   | 🚧 *Cloudflare Cache Purger for Laravel* | ⏳ Scheduled       | TBD                  | -                                                                                                                                           |
-| 18   | 🚧 *Deep Link Management                 | N/A               | TBD                  | -                                                                                                                                           |
+| 18   | 🚧 *Webhook Tester CLI*                  | ⏳ Scheduled       | TBD                  | -                                                                                                                                           |
 | 19   | 📋 *TBD*                                 | N/A               | TBD                  | -                                                                                                                                           |
 | 20   | 📋 *TBD*                                 | N/A               | TBD                  | -                                                                                                                                           |
 | 21   | 📋 *TBD*                                 | N/A               | TBD                  | -                                                                                                                                           |
