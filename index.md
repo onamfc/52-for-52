@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   </a>
   <a href="https://github.com/onamfc/52-for-52">
-    <img src="https://img.shields.io/badge/Progress-Week%2020%2F52-blue" alt="Progress">
+    <img src="https://img.shields.io/badge/Progress-Week%2021%2F52-blue" alt="Progress">
   </a>
 </p>
 
@@ -86,7 +86,7 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 | 18   | *LinkForty - React Native SDK*           | Released 11/27/25 | TypeScript, React Native | [github](https://github.com/LinkForty/mobile-sdk-react-native), [npm](https://www.npmjs.com/package/@linkforty/mobile-sdk-react-native)     |
 | 19   | *Agent Prompt Library*                   | Released 12/03/25 | Prompt Engineering, AI   | [github](https://github.com/onamfc/agent-prompt-library)                                                                                    |
 | 20   | *Project Security Scanner*               | Released 12/09/25 | TypeScript               | [github](https://github.com/onamfc/security-scanner), [npm](https://www.npmjs.com/package/@onamfc/security-scanner)                         |
-| 21   | 🚧 *LinkForty - iOS SDK                  | N/A               | TBD                      | -                                                                                                                                           |
+| 21   | *LinkForty - iOS SDK*                    | Released 12/18/25 | Swift                    | [github](https://github.com/LinkForty/mobile-sdk-ios)                                                                                       |
 | 22   | 🚧 *Cloudflare Cache Purger for Laravel* | N/A               | TBD                      | -                                                                                                                                           |
 | 23   | 🚧 *Webhook Tester CLI*                  | N/A               | TBD                      | -                                                                                                                                           |
 | 24   | 📋 *TBD*                                 | N/A               | TBD                      | -                                                                                                                                           |
