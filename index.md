@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   </a>
   <a href="https://github.com/onamfc/52-for-52">
-    <img src="https://img.shields.io/badge/Progress-Week%2027%2F52-blue" alt="Progress">
+    <img src="https://img.shields.io/badge/Progress-Week%2030%2F52-blue" alt="Progress">
   </a>
 </p>
 
@@ -92,12 +92,12 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 | 24   | *CaseShift*                                            | Released 1/11/26  | Python                   | [github](https://github.com/onamfc/case-shift)                                                                                              |
 | 25   | 🌧️ *Rain Delay*                                       | N/A               | TBD                      | -                                                                                                                                           |
 | 26   | *Waypointjs - Route planning for runners and cyclists* | Released 1/22/26  | Typescript               | [github](https://github.com/onamfc/waypointjs), [npm](https://www.npmjs.com/package/waypointjs), [website](https://www.waypointjs.com/)     |
-| 27   | *Stadium Lights*                                       | Released 1/29/26   | Typescript, Websockets   | [github](https://github.com/onamfc/stadium-lights)                                                                                          |
-| 28   | 🚧 *in development - week of 2/2*                      | N/A               | TBD                      | -                                                                                                                                           |
-| 29   | 📋 *TBD - week of 2/9*                                 | N/A               | TBD                      | -                                                                                                                                           |
-| 30   | 📋 *TBD - week of 2/16*                                | N/A               | TBD                      | -                                                                                                                                           |
-| 31   | 📋 *TBD - week of 2/23*                                | N/A               | TBD                      | -                                                                                                                                           |
-| 32   | 📋 *TBD - week of 3/2*                                 | N/A               | TBD                      | -                                                                                                                                           |
+| 27   | *Stadium Lights*                                       | Released 1/29/26  | Typescript, Websockets   | [github](https://github.com/onamfc/stadium-lights)                                                                                          |
+| 28   | *Branch Clean*                                         | Release 2/14/26   | Go                       | [github](https://github.com/onamfc/branch-clean)                                                                                            |
+| 29   | *LinkForty - Android SDK*                              | Released 2/16/26  | Kotlin                   | [github](https://github.com/LinkForty/mobile-sdk-android)                                                                                   |
+| 30   | *LinkForty - Expo SDK*                                 | Released 2/16/26  | TypeScript               | [github](https://github.com/LinkForty/mobile-sdk-expo)                                                                                      |
+| 31   | 🚧 *in development - week of 2/23*                     | N/A               | TBD                      | -                                                                                                                                           |
+| 32   | 🚧 *in development - week of 3/2*                      | N/A               | TBD                      | -                                                                                                                                           |
 | 33   | 📋 *TBD - week of 3/9*                                 | N/A               | TBD                      | -                                                                                                                                           |
 | 34   | 📋 *TBD - week of 3/16*                                | N/A               | TBD                      | -                                                                                                                                           |
 | 35   | 📋 *TBD - week of 3/23*                                | N/A               | TBD                      | -                                                                                                                                           |
