@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   </a>
   <a href="https://github.com/onamfc/52-for-52">
-    <img src="https://img.shields.io/badge/Progress-Week%2030%2F52-blue" alt="Progress">
+    <img src="https://img.shields.io/badge/Progress-Week%2032%2F52-blue" alt="Progress">
   </a>
 </p>
 
@@ -96,9 +96,9 @@ Welcome to **52-for-52 open source challenge** – an ambitious journey to creat
 | 28   | *Branch Clean*                                         | Release 2/14/26   | Go                       | [github](https://github.com/onamfc/branch-clean)                                                                                            |
 | 29   | *LinkForty - Android SDK*                              | Released 2/16/26  | Kotlin                   | [github](https://github.com/LinkForty/mobile-sdk-android)                                                                                   |
 | 30   | *LinkForty - Expo SDK*                                 | Released 2/16/26  | TypeScript               | [github](https://github.com/LinkForty/mobile-sdk-expo)                                                                                      |
-| 31   | 🚧 *in development - week of 2/23*                     | N/A               | TBD                      | -                                                                                                                                           |
-| 32   | 🚧 *in development - week of 3/2*                      | N/A               | TBD                      | -                                                                                                                                           |
-| 33   | 📋 *TBD - week of 3/9*                                 | N/A               | TBD                      | -                                                                                                                                           |
+| 31   | *Magic Calculator*                                     | Released 2/27/26  | Swift                    | [github](https://github.com/onamfc/magic-calculator)                                                                                        |
+| 32   | *Gavel - AI architecture governance*                   | Released 3/8/26   | TypeScript               | [Github](https://github.com/onamfc/gavel)                                                                                                   |
+| 33   | 🚧 *in development - week of 3/9*                      | N/A               | TBD                      | -                                                                                                                                           |
 | 34   | 📋 *TBD - week of 3/16*                                | N/A               | TBD                      | -                                                                                                                                           |
 | 35   | 📋 *TBD - week of 3/23*                                | N/A               | TBD                      | -                                                                                                                                           |
 | 36   | 📋 *TBD - week of 3/30*                                | N/A               | TBD                      | -                                                                                                                                           |
