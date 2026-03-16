@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/onamfc/52-for-52?style=social)](https://github.com/onamfc/52-for-52/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/onamfc/52-for-52)](https://github.com/onamfc/52-for-52/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Progress](https://img.shields.io/badge/Progress-Week%2032%2F52-blue)](https://github.com/onamfc/52-for-52)
+[![Progress](https://img.shields.io/badge/Progress-Week%2033%2F52-blue)](https://github.com/onamfc/52-for-52)
 
 ### Follow my Journey 
 [![Github Pages](https://img.shields.io/website?url=https://onamfc.github.io/52-for-52&style=for-the-badge)](https://onamfc.github.io/52-for-52)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-estrella-dev)  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sitetransition)
